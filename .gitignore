@@ -35,6 +35,7 @@
 /packages/flutter/coverage/
 version
 
+.dart_tool/
 # packages file containing multi-root paths
 .packages.generated
 
